@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "514127758191",
+    "project_id": "gobio-kel4-xirpl4",
+    "storage_bucket": "gobio-kel4-xirpl4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514127758191:android:e29bd88bcf68b8dda21e9a",
+        "android_client_info": {
+          "package_name": "com.indraazimi.mahasiswaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514127758191-m4fih3hpe6spn3mos8r3vp5mj0t4ie7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzoFqaT4KP0s5OCbKxqUok9_mgc5wkGOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514127758191-m4fih3hpe6spn3mos8r3vp5mj0t4ie7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514127758191:android:e252636bf09f5020a21e9a",
+        "android_client_info": {
+          "package_name": "com.kel4xirpl4gobio.mahasiswaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514127758191-m4fih3hpe6spn3mos8r3vp5mj0t4ie7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzoFqaT4KP0s5OCbKxqUok9_mgc5wkGOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514127758191-m4fih3hpe6spn3mos8r3vp5mj0t4ie7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
